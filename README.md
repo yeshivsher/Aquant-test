@@ -1,8 +1,9 @@
 # Aquant-test
 
-Create a React and CesiumJS-BingMaps project under two hours.
+Taking Aquant's challenge by creating a React and CesiumJS-BingMaps project under two hours.
 
-# instalation
+# Installation
 
-yarn install
-yarn start
+1) yarn install
+
+2) yarn start
